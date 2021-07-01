@@ -1,4 +1,4 @@
-#uva-webapps-homepage
+# uva-webapps-homepage
 This was my first one week project on web development. It is coded completely from scratch using CSS and HTML.
 
 My Website is all about my favourite clothing brand. This is an alpaca clothing brand called Arms of andes. 
